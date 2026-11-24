@@ -319,7 +319,8 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1a45bc8-3994-450a-8687-9d8fdc80c645" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/82df6ed0-4dff-4061-a971-7bcc94085308" />
+
 
 
 ## RESULT
